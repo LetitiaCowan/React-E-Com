@@ -11,8 +11,8 @@ function App() {
     <Router>
       <div className="App">
         <Nav />
-        <Route path="/" exact component={Home} />
-        <Route path="/books" render={() => <Books books={books} />} />
+        <Route path="/" exact component={()=> <Home/>} />
+        <Route path="/books" exact render={() => <Books books={books} />} />
         <Route path="/books/1" render={() => <BooksInfo books={books}/>}  />
         <Footer />
         </div>
