@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/react-e-com/static/css/main.3445b8f9.css",
-    "main.js": "/react-e-com/static/js/main.228fd89f.js",
+    "main.js": "/react-e-com/static/js/main.b819b5ce.js",
     "static/js/453.befaf6c5.chunk.js": "/react-e-com/static/js/453.befaf6c5.chunk.js",
     "static/media/Undraw_Books.svg": "/react-e-com/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
     "static/media/Library.svg": "/react-e-com/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
     "index.html": "/react-e-com/index.html",
     "static/media/wave.svg": "/react-e-com/static/media/wave.42edd5970e3619090a0f.svg",
     "main.3445b8f9.css.map": "/react-e-com/static/css/main.3445b8f9.css.map",
-    "main.228fd89f.js.map": "/react-e-com/static/js/main.228fd89f.js.map",
+    "main.b819b5ce.js.map": "/react-e-com/static/js/main.b819b5ce.js.map",
     "453.befaf6c5.chunk.js.map": "/react-e-com/static/js/453.befaf6c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3445b8f9.css",
-    "static/js/main.228fd89f.js"
+    "static/js/main.b819b5ce.js"
   ]
 }
