@@ -574,6 +574,7 @@ select {
 
 .book__selected {
   display: flex;
+  flex-direction: column;
 }
 
 .book__selected--figure {

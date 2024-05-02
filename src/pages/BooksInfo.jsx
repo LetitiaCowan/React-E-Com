@@ -27,10 +27,10 @@ const BooksInfo = ({ books }) => {
                 />
               </figure>
               <div className="book__selected--description">
-                <h2>Crack the coding interview</h2>
+                <h2 className="book__selected--title">Crack the coding interview</h2>
                   <Rating rating="4.5"/>
                   <div className="book__selected--price">
-                     <Price/>
+                    <Price originalPrice="50" salePrice="40"/>
                   </div>
               </div>
             </div>
