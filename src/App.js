@@ -44,7 +44,7 @@ function App() {
             }
           : item;
       })
-    );
+    );  
   }
 
   function removeItem(item) {
